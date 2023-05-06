@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="mod1" id="B469125A-1691-C07E-DF25-836A46C21115" version="3.5">
+<createdBy>Hiroshi</createdBy>
+<createdTime>2022-06-02 17:49:09 UTC</createdTime>
+<ownerDesignName>mod1</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>B469125A-1691-C07E-DF25-836A46C21115</designId>
+</OSDM_Design>
